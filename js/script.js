@@ -11,6 +11,5 @@ var typed = new Typed(".typed", {
   typeSpeed: 70,
   loop: true,
   startDelay: 1000,
-  showcursor: false,
-
+  showCursor: false,
 });
