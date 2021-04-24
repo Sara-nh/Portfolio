@@ -63,3 +63,7 @@
 .slides-pagination a.current {
   background: #222;
 }
+
+.section{
+  padding: 100px 0;
+}
