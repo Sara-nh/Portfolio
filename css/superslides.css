@@ -64,6 +64,11 @@
   background: #222;
 }
 
-.section{
+.section {
   padding: 100px 0;
+}
+
+.aboutImage {
+  max-width: 75%;
+  max-height: 75%;
 }
