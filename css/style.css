@@ -59,7 +59,9 @@ body{
 .slides-navigation {
 	z-index: 6;
 }
-.skillsSection{
+.skillsSection,
+.contactSection
+{
 	background-color:#00b894 ;
 	color: #fff;
 	text-align: center; 
